@@ -1,0 +1,42 @@
+.arama-motoru {
+    background-color: blue;
+    margin: 0 auto;
+    width: 1200px;
+    
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.ozel-arama {
+    background-color: lightgreen;
+    width: 33.33%;
+    float: left;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+
+.about-me {
+    background-color: cyan;
+    width: 33.33%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+
+}
+
+.contact {
+    background-color: lightsalmon;
+    width: 33.33%;
+    float: right;
+    margin-top: 10px;
+    margin-right: 76px;
+    
+
+}
+
+
